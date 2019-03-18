@@ -1,0 +1,241 @@
+body{
+	font-family: Segoe UI;
+	color:#000000;
+	font-size: 14px;
+	background-color: #fff;
+	background-image: url("../img/fondo rosado2_Mesa de trabajo 1.png");
+	
+}
+
+header{
+	background-color:transparent;
+	text-align: center;
+	color: #fff;
+	position: absolute;
+	width: 100%;
+	top: 0;
+	z-index: 9999;
+}
+
+
+
+#logos{
+
+	background-color: #2A2A2A;
+	colo: #fff;
+	
+	
+}
+
+#ima-logos h3{
+	
+}
+
+.btn-rectangulo{
+	background-color: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+	border-radius: 0;
+	padding: 10px 30px;
+	text-transform: lowercase;
+	font-weight: 600;
+	}
+	
+	
+.btn-rectangulo:hover{
+	background-color: #fff;
+	color: #000;
+	
+}	
+
+#deco{
+	
+	background-image: url( "../img/Captura de pantalla 2019-02-28 a la(s) 22.21.35.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+    background-attachment: fixed;
+	padding:100px 0px ;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+#deco h3{
+	margin-top: 25px;
+	font-size: 20px;
+}
+#deco p{
+	margin-top: 25px;
+	font-weight: 20;
+	margin-bottom: 100px;
+}
+
+
+#perfil-profecional{
+	padding: 100px 0px;
+	
+}
+	
+#perfil-profecional {
+	text-align: center;
+	margin-bottom: 50px;
+}	
+	
+
+.foto{
+	position: relative;
+}	
+
+.overlay{
+	position: absolute;
+	top: 40%;
+	left: 0;
+	width: 90%;
+	padding: 30px 40px;
+	background-color: rgba(0,0,0,0.70);
+	opacity: 0;
+}
+
+.foto:hover .overlay{
+	opacity: 1;
+	transition: all 0.3s ease-in-out;
+	
+}
+
+.bg-over-blue{
+	background-color: rgba(3,46,77,0.80);
+}
+
+
+
+#ima-logos h2{
+	font-size: 33px;
+	margin-top: 5px;
+	text-align: center;
+	margin: 5px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+#ima-logos h3{
+	font-size: 25px;
+	margin-top: 10px;
+	text-align: center;
+	margin: 10px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+	
+}
+
+.titulo{
+	
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	color: #111;
+	margin-bottom: 40px;
+	padding: 70px 0;
+}
+
+#ima-logos p{
+	
+	font-size: 18px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+
+
+
+#page-header{
+	background-color: #0c0c0c;
+	colo: #fff;
+	padding: 40px 0;
+}
+
+#page-header{
+	font-size: 26px;
+}
+#content{
+	padding: 45px 0;
+}
+
+#papeleria{
+    padding-top: 25px; 
+	text-align: center;
+    background-color:transparent;
+    margin-bottom: 50px;
+    font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    padding: 70px 0;
+}
+
+.titulo{
+	
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	color: #111;
+	margin-bottom: 40px;
+	padding: 70px 0;
+}
+
+
+
+
+
+#necesitas-ayuda{
+background-color: #f1e5df;
+padding: 100px 0;
+	
+	
+}
+
+#fotos-comerciales{
+    padding-top: 0px; 
+	text-align: center;
+    background-color:transparent;
+    margin-bottom: 0px;
+    font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    padding: 0px 0;
+} 
+#footer-menu{
+	background-color: #111;
+	color: #fff;
+	padding: 20px 0;
+}
+
+#footer-menu h3{
+	font-size: 16px;
+	text-transform: uppercase;
+	font-family:'Roboto Condensed', sans-serif;
+	border-bottom: 1px dotted #666;
+	letter-spacing: 2px;
+	padding-bottom: 5px;
+}
+
+#footer-menu ul{
+	list-style: none;
+}
+
+#footer-menu ul a{
+	color: #aaa;
+}
+
+#footer-menu ul a:hover{
+	color: #fff;
+}
+
+#footer-copy{
+	background-color: #222;
+	color: #fff;
+	padding: 10px 0;
+	border-top: 1px solid #333;
+	
+}
+
+#footer-copy a{
+	color:#aaa;
+	
+}
+
+#footer-copy a:hover{
+	color:#fff;
+	
+}
+
+
